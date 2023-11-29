@@ -1,0 +1,9 @@
+.avatarList{
+    display: flex;
+    min-height: 70vh;
+    width: 100vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:20px;
+    
+}

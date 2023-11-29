@@ -1,0 +1,19 @@
+.avatar{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    box-shadow: 0 0 5px rgb(243, 163, 163);
+}
+.avatar img{
+    width: 200px;
+    height: 200px;
+}
+
+.avatar p{
+    position: absolute;
+    left: 0;
+    bottom: 20px;
+    background-color: rgba(5, 5, 189, 0.9);
+    color: white;
+    letter-spacing: 1.7px;
+}
